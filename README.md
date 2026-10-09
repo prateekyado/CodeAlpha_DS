@@ -23,12 +23,6 @@ Each task demonstrates practical use of data analysis, data visualization, and m
 - Performed preprocessing, feature engineering, and model evaluation.
 - **Libraries used:** pandas, scikit-learn, matplotlib.
 
-### ✅ Task 4: Sales Prediction using Python
-- Predicted future sales based on advertising spend across TV, Radio, and Newspaper.
-- Built a linear regression model to forecast sales.
-- Analyzed how changes in advertising budget impact sales outcomes.
-- **Libraries used:** pandas, scikit-learn, matplotlib.
-
 ---
 
 ## 🛠 Requirements
